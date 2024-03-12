@@ -1,6 +1,6 @@
 ## Olá! Me chamo Lucas Sanches! 🚀
 
-Apaixonado por livros, programação e graduando de Gestão da Tecnologia da Informação.
+Apaixonado por livros, programação e aluno do curso de Gestão da Tecnologia da Informação.
 
 ### Hard Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
