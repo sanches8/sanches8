@@ -1,11 +1,11 @@
 # Hello There 👋
 
-:world_map: Quero explorar o que o mundo tem a oferecer  
-:snake: Atualmente estou estudando Python e POO com interesse em Flask  
-:computer: Tenho o objetivo de me aprofundar no desenvolvimento backend, principalmente para APIs  
-:star2: "Se podemos sonhar, também podemos tornar nossos sonhos realidade."
+:world_map: I want to explore what the world has to offer  
+:snake: Currently studying Python and OOP with an interest in Flask  
+:computer: My goal is to deepen my knowledge in backend development, especially for APIs  
+:star2: "If we can dream it, we can also make our dreams come true."
 
-## Minhas Tecnologias
+## Minhas Technologies
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
