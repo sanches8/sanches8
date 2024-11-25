@@ -2,7 +2,7 @@
 
 :world_map: I want to explore what the world has to offer  
 :snake: Currently studying Python and OOP with an interest in Flask  
-:computer: My goal is to deepen my knowledge in backend development, especially for APIs  
+:computer: My goal is to deepen my knowledge in Data Analysis  
 :star2: "If we can dream it, we can also make our dreams come true."
 
 ## Minhas Technologies
