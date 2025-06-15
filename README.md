@@ -12,9 +12,9 @@
 ## Tech Stack
 
 ### Data Analysis & BI
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power BI](https://img.shields.io/badge/Power_BI-FFB000?style=for-the-badge&logo=powerbi&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Python](https://custom-icon-badges.demolab.com/badge/Python-3776AB?logo=python&logoColor=white)
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=000)
+![Excel](https://custom-icon-badges.demolab.com/badge/Excel-217346?logo=excel&logoColor=white)
 
 ### Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
